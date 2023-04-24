@@ -1,9 +1,9 @@
 title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  PhD in biomedical Informatics 
   <br><br>
-  Second description 
+  Experienced in Data Science and Machine learning for biomedical image analysis 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
