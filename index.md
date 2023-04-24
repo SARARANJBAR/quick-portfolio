@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Creating a pipeline for automatic preprocessing of MRI data](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pipeline.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
