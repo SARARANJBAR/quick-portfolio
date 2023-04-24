@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Creating a pipeline for automatic preprocessing of MRI data](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
