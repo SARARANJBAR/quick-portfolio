@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Creating a pipeline for automatic preprocessing of MRI data 
 
-[Creating a pipeline for automatic preprocessing of MRI data](/sample_page)
+[details](/sample_page)
 <img src="images/pipeline.jpg?raw=true"/>
 
 ---
