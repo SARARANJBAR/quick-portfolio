@@ -4,17 +4,18 @@
 
 ## Projects 
 
-[Creating a pipeline for automatic preprocessing of MRI data](/)
+[Creating a pipeline for automatic preprocessing of MRI data]([http://example.com/))
 <img src="images/pipeline.jpg?raw=true"/>
 
 ---
-[predicting spatial heterogeneity within GBMs](https://github.com/SARARANJBAR/SpatialHeterogeneityPredictor)
-<img src=""/>
+[predicting spatial heterogeneity within GBMs]([https://github.com/SARARANJBAR/SpatialHeterogeneityPredictor])
+<img src="images/pipeline.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[developing a deep learning brain tumor segmentation model]([https://github.com/SARARANJBAR/PNTGliomaSegmentationProjec])
+<img src="images/pipeline.jpg?raw=true"/>
 
+[predicting sex-specific glioma tissue state transition from imaging patterns]([https://github.com/SARARANJBAR/PNTGliomaBiopsyMachineLearningProject])
 ---
 
 ### Category Name 2
