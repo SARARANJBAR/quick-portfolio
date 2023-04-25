@@ -2,14 +2,14 @@
 
 ---
 
-### Creating a pipeline for automatic preprocessing of MRI data 
+### Projects 
 
-[details](/sample_page)
+[Creating a pipeline for automatic preprocessing of MRI data](/)
 <img src="images/pipeline.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[predicting spatial heterogeneity within GBMs](https://github.com/SARARANJBAR/SpatialHeterogeneityPredictor)
+<img src=""/>
 
 ---
 [Project 3 Title](http://example.com/)
