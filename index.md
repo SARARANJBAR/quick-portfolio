@@ -2,7 +2,7 @@
 
 ---
 
-### Projects 
+## Projects 
 
 [Creating a pipeline for automatic preprocessing of MRI data](/)
 <img src="images/pipeline.jpg?raw=true"/>
