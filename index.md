@@ -13,7 +13,7 @@
 
 ---
 [developing a deep learning brain tumor segmentation model]([https://github.com/SARARANJBAR/PNTGliomaSegmentationProjec])
-<img src="images/pipeline.jpg?raw=true"/>
+<img src="images/seqpred.png?raw=true"/>
 
 [predicting sex-specific glioma tissue state transition from imaging patterns]([https://github.com/SARARANJBAR/PNTGliomaBiopsyMachineLearningProject])
 ---
