@@ -1,34 +1,24 @@
 
 ## Projects 
 
-[Pipeline for automatic preprocessing of Clinical MRI images]([to be added])
+### [Pipeline for automatic preprocessing of Clinical MRI images]([to be added])
 Image-based mathematical modeling in neuroimaging is an advantageous approach for integrate mathematics into the care routine for patients with brain tumors with the final goal of providing clinicians with additional quantitative insight into tumor characteristics and behaviour. These image-based models rely on preprocessed clinical data for generating the target output per patient and therefore pipelines are necessary to automate and streamline preprocessing steps. In this project, I developed a python-based pipeline to preprocess MRI images for use in tumor edema maps. Given a pair of MRI images with T1W with gadolinium contrast (T1Gd) and fluid attenuated inversion recovery (FLAIR) sequence types, this pipeline automatically conducts some of the preprocessing steps including resampling, resizing, denoising, bias field correction, and tissue segmentation. Brain and tumor delineation are postprocessed to match the original image dimension and voxel size.
 
 <img src="images/pipeline.jpg?raw=false" width="1200" height="200"/>
 
 ---
-[predicting spatial heterogeneity within GBMs]([https://github.com/SARARANJBAR/SpatialHeterogeneityPredictor])
+### [Predicting spatial heterogeneity within GBMs]([https://github.com/SARARANJBAR/SpatialHeterogeneityPredictor])
 The aim of the project is to build a machine learning model to predict the abbundance of ki67 (a known marker of proliferation) in MRI-localized biopsies from features describing imaging patterns around the biopsies.
 
 Predicting ki67 is useful to identify if imaging patterns explain proliferation is biospy samples. We know that proliferation is elevated where tumor cells are present. If we can predict where proliferation happens, we can basically create maps corresponding to the spatial distribution of proliferation across whole tumors. Such maps can potentially inform radiation planning to target areas where the tumor shows maximal activity.
 
 ---
-[developing a deep learningMRI sequence predictor model]([https://github.com/SARARANJBAR/PNTGliomaSegmentationProjec])
+### [Developing a CNN for classifiaction of MRI sequence types]([https://github.com/SARARANJBAR/PNTGliomaSegmentationProjec])
 
 One factor affecting the ability to aggregate large medical image collections for research is the lack of infrastructure for automated data annotation. Among all imaging modalities, annotation of magnetic resonance (MR) images is particularly challenging due to the non-standard labeling of MR image types. In this work, we aimed to train a deep neural network to annotate MR image sequence type for scans of brain tumor patients. We focused on the four most common MR sequence types within neuroimaging: T1-weighted (T1W), T1-weighted post-gadolinium contrast (T1Gd), T2-weighted (T2W), and T2-weighted fluid-attenuated inversion recovery (FLAIR).
 <img src="images/seqpred.png?raw=true"/>
 
-[predicting sex-specific glioma tissue state transition from imaging patterns]([https://github.com/SARARANJBAR/PNTGliomaBiopsyMachineLearningProject])
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+### [predicting sex-specific glioma tissue state transition from imaging patterns]([https://github.com/SARARANJBAR/PNTGliomaBiopsyMachineLearningProject])
 ---
 
 
