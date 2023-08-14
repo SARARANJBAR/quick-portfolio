@@ -1,15 +1,11 @@
-## Portfolio
-
----
 
 ## Projects 
 
-[Creating a pipeline for automatic preprocessing of MRI data]([http://example.com/))
-<img src="images/pipeline.jpg?raw=true" width="900" height="300"/>
+[Pipeline for automatic preprocessing of Clinical MRI images]([to be added])
+<img src="images/pipeline.jpg?raw=true" width="1200" height="200"/>
 
 ---
 [predicting spatial heterogeneity within GBMs]([https://github.com/SARARANJBAR/SpatialHeterogeneityPredictor])
-<img src="images/pipeline.jpg?raw=true"/>
 
 ---
 [developing a deep learningMRI sequence predictor model]([https://github.com/SARARANJBAR/PNTGliomaSegmentationProjec])
