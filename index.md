@@ -5,7 +5,7 @@
 ## Projects 
 
 [Creating a pipeline for automatic preprocessing of MRI data]([http://example.com/))
-<img src="images/pipeline.jpg?raw=true"/>
+<img src="images/pipeline.jpg?raw=true" width="600" height="300"/>
 
 ---
 [predicting spatial heterogeneity within GBMs]([https://github.com/SARARANJBAR/SpatialHeterogeneityPredictor])
