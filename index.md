@@ -3,10 +3,14 @@
 
 [Pipeline for automatic preprocessing of Clinical MRI images]([to be added])
 Image-based mathematical modeling in neuroimaging is an advantageous approach for integrate mathematics into the care routine for patients with brain tumors with the final goal of providing clinicians with additional quantitative insight into tumor characteristics and behaviour. These image-based models rely on preprocessed clinical data for generating the target output per patient and therefore pipelines are necessary to automate and streamline preprocessing steps. In this project, I developed a python-based pipeline to preprocess MRI images for use in tumor edema maps. Given a pair of MRI images with T1W with gadolinium contrast (T1Gd) and fluid attenuated inversion recovery (FLAIR) sequence types, this pipeline automatically conducts some of the preprocessing steps including resampling, resizing, denoising, bias field correction, and tissue segmentation. Brain and tumor delineation are postprocessed to match the original image dimension and voxel size.
+
 <img src="images/pipeline.jpg?raw=false" width="1200" height="200"/>
 
 ---
 [predicting spatial heterogeneity within GBMs]([https://github.com/SARARANJBAR/SpatialHeterogeneityPredictor])
+The aim of the project is to build a machine learning model to predict the abbundance of ki67 (a known marker of proliferation) in MRI-localized biopsies from features describing imaging patterns around the biopsies.
+
+Predicting ki67 is useful to identify if imaging patterns explain proliferation is biospy samples. We know that proliferation is elevated where tumor cells are present. If we can predict where proliferation happens, we can basically create maps corresponding to the spatial distribution of proliferation across whole tumors. Such maps can potentially inform radiation planning to target areas where the tumor shows maximal activity.
 
 ---
 [developing a deep learningMRI sequence predictor model]([https://github.com/SARARANJBAR/PNTGliomaSegmentationProjec])
