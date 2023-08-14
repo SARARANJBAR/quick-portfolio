@@ -2,14 +2,16 @@
 ## Projects 
 
 [Pipeline for automatic preprocessing of Clinical MRI images]([to be added])
-<img src="images/pipeline.jpg?raw=true" width="1200" height="200"/>
 Image-based mathematical modeling in neuroimaging is an advantageous approach for integrate mathematics into the care routine for patients with brain tumors with the final goal of providing clinicians with additional quantitative insight into tumor characteristics and behaviour. These image-based models rely on preprocessed clinical data for generating the target output per patient and therefore pipelines are necessary to automate and streamline preprocessing steps. In this project, I developed a python-based pipeline to preprocess MRI images for use in tumor edema maps. Given a pair of MRI images with T1W with gadolinium contrast (T1Gd) and fluid attenuated inversion recovery (FLAIR) sequence types, this pipeline automatically conducts some of the preprocessing steps including resampling, resizing, denoising, bias field correction, and tissue segmentation. Brain and tumor delineation are postprocessed to match the original image dimension and voxel size.
- 
+<img src="images/pipeline.jpg?raw=false" width="1200" height="200"/>
+
 ---
 [predicting spatial heterogeneity within GBMs]([https://github.com/SARARANJBAR/SpatialHeterogeneityPredictor])
 
 ---
 [developing a deep learningMRI sequence predictor model]([https://github.com/SARARANJBAR/PNTGliomaSegmentationProjec])
+
+One factor affecting the ability to aggregate large medical image collections for research is the lack of infrastructure for automated data annotation. Among all imaging modalities, annotation of magnetic resonance (MR) images is particularly challenging due to the non-standard labeling of MR image types. In this work, we aimed to train a deep neural network to annotate MR image sequence type for scans of brain tumor patients. We focused on the four most common MR sequence types within neuroimaging: T1-weighted (T1W), T1-weighted post-gadolinium contrast (T1Gd), T2-weighted (T2W), and T2-weighted fluid-attenuated inversion recovery (FLAIR).
 <img src="images/seqpred.png?raw=true"/>
 
 [predicting sex-specific glioma tissue state transition from imaging patterns]([https://github.com/SARARANJBAR/PNTGliomaBiopsyMachineLearningProject])
