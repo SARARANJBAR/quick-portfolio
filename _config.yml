@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br><br>
   <a href="https://www.linkedin.com/in/sararanjbar-phd/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
   <br>
-  <a href="https://scholar.google.com/citations?user=vmfTRQ0AAAAJ&hl=en"> Google Scholar </a> 
+  <a href="https://scholar.google.com/citations?user=vmfTRQ0AAAAJ&hl=en"> src="https://icons8.com/icon/79076/google-scholar" </a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
