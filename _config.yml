@@ -1,6 +1,6 @@
 title:    Sara Ranjbar # your name (or website title) here
 logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: # your text below (remove <br> elements if you don't need line breaks)
   Hello! I am Sara 
   <br><br>
   I use data science and machine learning in clinical imaging research.
