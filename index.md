@@ -8,7 +8,6 @@ Image-based mathematical models rely on preprocessed clinical data for generatin
 <img src="images/pipeline.png?raw=false"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
-
 <a href="https://github.com/SARARANJBAR/MRI_processing_pipeline">View Code on GitHub</a>
 
 ### Predicting spatial heterogeneity within GBMs
@@ -23,6 +22,8 @@ Predicting ki67 is useful to identify if imaging patterns explain proliferation 
 <br>
 One factor affecting the ability to aggregate large medical image collections for research is the lack of infrastructure for automated data annotation. Among all imaging modalities, annotation of magnetic resonance (MR) images is particularly challenging due to the non-standard labeling of MR image types. In this work, we aimed to train a deep neural network to annotate MR image sequence type for scans of brain tumor patients. We focused on the four most common MR sequence types within neuroimaging: T1-weighted (T1W), T1-weighted post-gadolinium contrast (T1Gd), T2-weighted (T2W), and T2-weighted fluid-attenuated inversion recovery (FLAIR).
 <img src="images/seqpred.png?raw=true"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 <a href="">View Code on GitHub</a>
 
 
