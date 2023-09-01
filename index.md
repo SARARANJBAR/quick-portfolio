@@ -6,10 +6,8 @@
 
 Image-based mathematical models rely on preprocessed clinical data for generating the target quantitative maps per patient and therefore pipelines are necessary to automate and streamline preprocessing steps. In this project, I developed a python-based pipeline to preprocess MRI images including resampling, resizing, denoising, bias field correction, and tissue segmentation.
 <img src="images/pipeline.png?raw=false"/>
-<img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
-<img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
-<img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
-<img src="https://img.shields.io/badge/nflfastR-blue?logo=R"><br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/conda/dn/:channel/:package">
 <a href="https://github.com/SARARANJBAR/MRI_processing_pipeline">View Code on GitHub</a>
 
 ### Predicting spatial heterogeneity within GBMs
