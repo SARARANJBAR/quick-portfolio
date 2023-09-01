@@ -2,11 +2,12 @@
 ## Portfolio 
 
 ### [Pipeline for automatic preprocessing of clinical MRI images]([to be added])
-<br><br>
+<br>
 Image-based mathematical models rely on preprocessed clinical data for generating the target quantitative maps per patient and therefore pipelines are necessary to automate and streamline preprocessing steps. In this project, I developed a python-based pipeline to preprocess MRI images for use in tumor edema maps. Given a pair of MRI images with T1W with gadolinium contrast (T1Gd) and fluid attenuated inversion recovery (FLAIR) sequence types, this pipeline automatically conducts some of the preprocessing steps including resampling, resizing, denoising, bias field correction, and tissue segmentation. Brain and tumor delineation are postprocessed to match the original image dimension and voxel size.
 
 <img src="images/pipeline.png?raw=false"/>
 
+[View Github Repository]([https://github.com/SARARANJBAR/MRI_processing_pipeline])
 ---
 ### [Predicting spatial heterogeneity within GBMs]([https://github.com/SARARANJBAR/SpatialHeterogeneityPredictor])
 The aim of the project is to build a machine learning model to predict the abbundance of ki67 (a known marker of proliferation) in MRI-localized biopsies from features describing imaging patterns around the biopsies.
