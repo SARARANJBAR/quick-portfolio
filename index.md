@@ -3,16 +3,18 @@
 
 ### [Pipeline for automatic preprocessing of clinical MRI images]([to be added])
 <br>
-Image-based mathematical models rely on preprocessed clinical data for generating the target quantitative maps per patient and therefore pipelines are necessary to automate and streamline preprocessing steps. In this project, I developed a python-based pipeline to preprocess MRI images for use in tumor edema maps. Given a pair of MRI images with T1W with gadolinium contrast (T1Gd) and fluid attenuated inversion recovery (FLAIR) sequence types, this pipeline automatically conducts some of the preprocessing steps including resampling, resizing, denoising, bias field correction, and tissue segmentation. Brain and tumor delineation are postprocessed to match the original image dimension and voxel size.
+
+Image-based mathematical models rely on preprocessed clinical data for generating the target quantitative maps per patient and therefore pipelines are necessary to automate and streamline preprocessing steps. In this project, I developed a python-based pipeline to preprocess MRI images including resampling, resizing, denoising, bias field correction, and tissue segmentation.
 
 <img src="images/pipeline.png?raw=false"/>
 
-[View Github Repository]([https://github.com/SARARANJBAR/MRI_processing_pipeline])
+View Github Repository [https://github.com/SARARANJBAR/MRI_processing_pipeline]
 ---
-### [Predicting spatial heterogeneity within GBMs]([https://github.com/SARARANJBAR/SpatialHeterogeneityPredictor])
+### Predicting spatial heterogeneity within GBMs
 The aim of the project is to build a machine learning model to predict the abbundance of ki67 (a known marker of proliferation) in MRI-localized biopsies from features describing imaging patterns around the biopsies.
 
 Predicting ki67 is useful to identify if imaging patterns explain proliferation is biospy samples. We know that proliferation is elevated where tumor cells are present. If we can predict where proliferation happens, we can basically create maps corresponding to the spatial distribution of proliferation across whole tumors. Such maps can potentially inform radiation planning to target areas where the tumor shows maximal activity.
+
 
 ---
 ### [Developing a CNN for classifiaction of MRI sequence types]([https://github.com/SARARANJBAR/PNTGliomaSegmentationProjec])
