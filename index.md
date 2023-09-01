@@ -8,7 +8,7 @@ Image-based mathematical models rely on preprocessed clinical data for generatin
 
 <img src="images/pipeline.png?raw=false"/>
 
-View Github Repository [https://github.com/SARARANJBAR/MRI_processing_pipeline]
+#### [View Github Repository] ([https://github.com/SARARANJBAR/MRI_processing_pipeline])
 ---
 ### Predicting spatial heterogeneity within GBMs
 The aim of the project is to build a machine learning model to predict the abbundance of ki67 (a known marker of proliferation) in MRI-localized biopsies from features describing imaging patterns around the biopsies.
